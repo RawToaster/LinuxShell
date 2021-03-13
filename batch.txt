@@ -1,0 +1,17 @@
+ls -l; date; cal 9 1752; myhistory
+myhistory
+ls -lat
+myhistory -e 3
+myhistory
+myhistory -c
+myhistory
+ls -l > ls.txt
+cat ls.txt | wc
+path
+path + newPath
+path
+path - newPath
+path
+mkdir testDir
+cd testDir
+cd
